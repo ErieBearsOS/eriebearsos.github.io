@@ -7,7 +7,7 @@ tags:
     - history
 ---
 
-### Jan, 2019...
+### January, 2019...
 
 A bored college student who helped organize a trip to MagicFest Cleveland is trying to find events which appeal to him while there. He doesn't much care for Modern, his draft record is absolutely horrible at 12 wins to 622 losses, he's unsure if there will be Pauper players to use his Atog deck against, and he dislikes EDH after playing it through the entirety of high school. After a bit of looking around online he notices [a tweet][1] from a group called the *Cleveland Rocs* talking about "Old School MTG". He decides the format sounds cool, gets a White Weenie deck copied just about exactly from [this Baltimore Old School page][2], and signs up for whatever this "Old School" event is.
 
