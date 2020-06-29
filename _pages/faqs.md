@@ -13,11 +13,19 @@ The Erie Bears is an Old School playgroup based out of Erie, PA dedicated to thr
 
 ### What's Old School?
 
-Old School is a format where the players use cards from 1993 to 1994, in [our current ruleset][1] this means from Alpha to Fallen Empires, in (usually) a traditional 60-card deck. A large focus is on placed on community and events are held not only for the enjoyment of the Old School community but also commonly for [helping good causes in their local community.][2]
+Old School is a format where the players use cards from 1993 to 1994, in [our current ruleset][1] this means from Alpha to Fallen Empires, in (usually) a traditional 60-card deck. A large focus is on placed on community and events are held not only for the enjoyment of the Old School community but are also quite commonly for [helping good causes in their local community.][2]
+
+### Are your events sanctioned by WotC?
+
+**Nope.** 
+
+We'll be keeping it that way.
 
 ### Is Old School expensive?
 
-Power Nine cards may be nice but you don't need them at all to have a good time. The Erie Bears was founded by three broke college students which should speak for itself.
+Power Nine cards may be nice but you don't need things like them to have a good time. Some competitive decks can be built on quite the budget, two-thirds of our members started on a sub-$60 mono-Black list which does quite well. 
+
+If that doesn't say enough then know just know that the Erie Bears was founded by three broke Penn State students.
 
 ### I'm interested, what do I do?
 
@@ -29,9 +37,10 @@ At the moment our members only have their one personal deck but this will change
 
 ### Why the Erie Bears?
 
-1. [Grizzly Bears][3] is a cool card
-2. Bears, both Brown and Black, are local to the area. One of our members has tons of stories of frustration entirely caused by these fuzzy things.
-3. No other card seemed fitting to the area.
+1. [Grizzly Bears][3] is a really cool card.
+2. Bears, both Brown and Black, are local to the area. 
+3. No other card seemed quite as fitting to the area.
+4. One of our members has many stories of frustration caused entirely by bears around his house.
 
 [1]: https://sentineloldschoolmtg.com/atlantic-93-94/ "Atlantic 93/94 Magic Rules"
 [2]: https://sites.google.com/view/philadelphiaos/articles-reports/balance-2020-tos-report "A recent example, $1069 to the APEDF, which one of our members played in"
