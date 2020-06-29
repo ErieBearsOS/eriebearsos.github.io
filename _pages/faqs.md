@@ -13,7 +13,7 @@ The Erie Bears is an Old School playgroup based out of Erie, PA dedicated to thr
 
 ### What's Old School?
 
-Old School is a format where the players use cards from 1993 to 1994, in [our current ruleset][1] this means from Alpha to Fallen Empires, in (usually) a traditional 60-card deck. Some formats within Old School, examples being Alpha 40 or OS-EDH, may change what cards are allowed but follow suit by using the older cards. Events are held for the community alongside the enjoyment of the players, commonly doing things like [donating money to good causes][2] both in their local area or on a wider scale.
+Old School is a format where the players use cards from 1993 to 1994, in [our current ruleset][1] this means from Alpha to Fallen Empires, in (usually) a traditional 60-card deck. Some formats within Old School, examples being Alpha 40 or OS-EDH, may change what cards are allowed but follow suit by using the older cards. Events are held not only for enjoyment but also commonly doing things like [helping good causes in their local area.][2]
 
 ### Is Old School expensive?
 
