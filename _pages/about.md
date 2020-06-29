@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "About Us"
+title: "FAQs"
 ---
 
 ### Who Are We?
 
-The Erie Bears is a Old School playgroup based out of Erie, PA dedicated to three things:
+The Erie Bears is an Old School playgroup based out of Erie, PA dedicated to three things:
 
 1. Being an inclusive community for all interested individuals
 2. Showing an appreciation for the greater community
@@ -13,15 +13,19 @@ The Erie Bears is a Old School playgroup based out of Erie, PA dedicated to thre
 
 ### What's Old School?
 
-Old School is a format of MTG using cards from 1993 to 1994.
+Old School is a format where the players use cards from 1993 to 1994, in our current ruleset this means from Alpha to Fallen Empires. Events are commonly held not only for the fun of players but also for charities and other good within the area.
 
 ### Is Old School expensive?
 
-It doesn't have to be. The Erie Bears was founded by three broke college students on budgets and fun decks can be made on a budget.
+Power Nine cards may be nice but you in fact don't need them at all to have a good time. The Erie Bears was founded by three broke college students which should speak for itself.
 
 ### I'm interested, what do I do?
 
 Feel free to get in contact with us through any of our social media links as we would be glad to help, answer any questions you may have, and have you at our next meetup or event!
+
+### Do you have a deck I could use?
+
+At the moment our members only have their one personal deck but this will change over time.
 
 ### Why the Erie Bears?
 
