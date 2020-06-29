@@ -7,9 +7,9 @@ title: "Contact Us"
 
 Feel free to hit us up on any of our accounts!
 
-<p style="text-align: center;">[Our Twitter account][1]</p>
+[Our Twitter account][1]
 
-<p style="text-align: center;">[Our Discord server][2]</p>
+[Our Discord server][2]
 
 [1]: https://twitter.com/eriebears "Our Twitter"
 [2]: https://discord.gg/68D5fQU "Our Discord server"
