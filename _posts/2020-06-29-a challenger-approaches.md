@@ -1,10 +1,10 @@
 ---
 title: "A Challenger Approaches... (An Introduction)"
 date: 2020-06-29T10:05:12
-categories:
-    - first
-    - clubinfo
 tags:
+    - first
+    - meta
+    - history
 ---
 
 ### Jan, 2019
