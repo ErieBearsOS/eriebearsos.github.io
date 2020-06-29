@@ -1,0 +1,4 @@
+---
+permalink: /rules/
+title: "Rules"
+---
