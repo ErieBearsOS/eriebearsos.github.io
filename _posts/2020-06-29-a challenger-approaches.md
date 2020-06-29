@@ -19,7 +19,7 @@ Said bored college student, now having played his deck quite a bit at his school
 
 ## June, 2020
 
-After being stuck inside playing random jank against the Forge AI, chatting for quite a while about attempting to be spicy, and having just played in [Balance 2020][4] the group decides to form up as an actual club. Grizzly Bears is picked as a "club card" of sorts, a Twitter account is made, a Discord is set up, and a Google Site gets made them promptly thrown out the window for this Jekyll-powered mess. *The Erie Bears are in effect y'all.*
+After being stuck inside playing random jank against the Forge AI, chatting for quite a while about attempting to be spicy, and having just played in [Balance 2020][4] the group decides to form up as an actual club. Grizzly Bears is picked as a "club card" of sorts, a Twitter account is made, a Discord is set up, and a Google Site gets made then promptly thrown out the window for this Jekyll-powered mess. *The Erie Bears are in effect y'all.*
 
 
 So, with the basic history out of the way, welcome to the page of the Erie Bears! We're currently made of just three members, all broke college students with one from Erie, one from Pittsburgh, and one from Eldred. We haven't actually held any events before (but have attended a few), we haven't actually done many meetups (but plan to quite soon), and we definitely haven't actually made good decks *but that's beside the point*. We hope to provide some interesting (enough) content, show off our (jank) decks, and possibly eventually run something.
