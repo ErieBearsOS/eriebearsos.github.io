@@ -17,9 +17,7 @@ Old School is a format where the players use cards from 1993 to 1994, in [our cu
 
 ### Are your events sanctioned by WotC?
 
-**Nope.** 
-
-We'll be keeping it that way.
+*Nope.* We'll be keeping it that way.
 
 ### Is Old School expensive?
 
