@@ -23,7 +23,7 @@ Old School is a format where the players use cards from 1993 to 1994, in [our cu
 
 Power Nine cards may be nice but you don't need things like them to have a good time. Some competitive decks can be built on quite the budget, two-thirds of our members started on a sub-$60 mono-Black list which does quite well. 
 
-If that doesn't say enough then know just know that the Erie Bears was founded by three broke Penn State students.
+If that doesn't say enough then know just know that the Erie Bears was founded by three broke college students.
 
 ### I'm interested, what do I do?
 
