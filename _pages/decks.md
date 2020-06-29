@@ -1,4 +1,4 @@
 ---
-permalink: /categories/
+permalink: /decks/
 title: "Decks"
 ---
