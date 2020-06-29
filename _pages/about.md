@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Us"
 ---
 
-# Who Are We?
+### Who Are We?
 
 The Erie Bears is a Old School playgroup based out of Erie, PA dedicated to three things:
 
@@ -11,14 +11,20 @@ The Erie Bears is a Old School playgroup based out of Erie, PA dedicated to thre
 2. Showing an appreciation for the greater community
 3. Slamming some hot jank
 
-# What's Old School?
+### What's Old School?
 
 Old School is a format of MTG using cards from 1993 to 1994.
 
-# Is Old School expensive?
+### Is Old School expensive?
 
 It doesn't have to be. The Erie Bears was founded by three broke college students on budgets and fun decks can be made on a budget.
 
-# I'm interested, what do I do?
+### I'm interested, what do I do?
 
 Feel free to get in contact with us through any of our social media links as we would be glad to help, answer any questions you may have, and have you at our next meetup or event!
+
+### Why the Erie Bears?
+
+1. Grizzly Bears is a cool card
+2. Bears, both Brown and Black, are local to the area. One of our members has tons of stories of frustration entirely caused by these fuzzy things.
+3. No other card seemed fitting to the area.
