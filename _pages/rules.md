@@ -7,13 +7,13 @@ title: "Rules"
 
 1. We follow the [Atlantic][1] ruleset for meetups. If a different ruleset is to be used during an event then we will say so with the announcement of said event.
 
-2. Reprints which are non-foil, have the same art, and have the same card frame are allowed at both meetups and events.
+2. Reprints which are non-foil, have the same art, and have the same card frame are allowed at both meetups and events. This means that playing things like a 4ED *Strip Mine*, a 1996 Eric Tam *City of Brass*, or a CE/IE *Grizzly Bears* which match their original printings in art and frame is allowed.
 
-3. Proxies are allowed during regular meetups. Altered versions of other cards, stand-in cards, artist sketches, player sketches, etc. all fall under this umbrella of "Proxies".
+3. Proxies are allowed during regular meetups and some may be allowed during events. Altered versions of other cards, stand-in cards, artist sketches, player sketches, etc. all fall under this umbrella of "Proxies".
 
-4. Card alters, clearly able to be seen as the original card, are allowed.
+4. Card alters, clearly able to be seen as the original card, are allowed at both meetups and events.
 
-5. *Invoke Prejudice* will get you an uncomfortable talk and a possible removal from events. If you really must play a controversial card then we highly encourage altering the card and, if told ahead of time, may even buy you a gold-border blank to draw up your own "functional reprint" which we will allow at our events.
+5. *Invoke Prejudice* will get you an uncomfortable talk and a possible removal from events. If you really must play a controversial card then we highly encourage altering the card and, if told ahead of time, may even buy you a gold-border blank to draw up your own "functional reprint" which we will allow at our meetups and events.
 
 
 ### General Conduct
