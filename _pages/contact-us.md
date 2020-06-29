@@ -11,5 +11,5 @@ Feel free to hit us up on any of our accounts!
 
 <p style="text-align: center;">[Our Discord server][2]</p>
 
-[1]: https://twitter.com/eriebears
-[2]: https://discord.gg/68D5fQU
+[1]: https://twitter.com/eriebears "Our Twitter"
+[2]: https://discord.gg/68D5fQU "Our Discord server"
