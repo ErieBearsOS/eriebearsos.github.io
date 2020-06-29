@@ -35,5 +35,4 @@ At the moment our members only have their one personal deck but this will change
 
 [1]: https://sentineloldschoolmtg.com/atlantic-93-94/ "Atlantic 93/94 Magic Rules"
 [2]: https://sites.google.com/view/philadelphiaos/articles-reports/balance-2020-tos-report "A recent example, $1069 to the APEDF, which one of our members played in"
-[3]: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=155 "Look at that cool bear"
-[5]: 
+[3]: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=155 "Alpha Bear goes roar"
