@@ -27,7 +27,7 @@ If that doesn't say enough then know just know that the Erie Bears was founded b
 
 ### I'm interested, what do I do?
 
-Feel free to get in contact with us through any of our social media links as we would be glad to help, answer any questions you may have, and have you at our next meetup or event!
+Feel free to get in contact with us through our Twitter or Discord! We would be glad to help, answer any questions you may have, and have you at our next meetup or event.
 
 ### Do you have a deck I could use?
 
