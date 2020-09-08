@@ -12,6 +12,7 @@ Played at Cleveland Rocs Old School 02-2019
 <br>
 <br>
 *"Hypocrisy"*
+
 ![Hypocrisy as-of July 11th, 2020](/assets/images/hypocrisy.jpg)
 
 ___
