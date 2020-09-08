@@ -9,7 +9,9 @@ title: "Decks"
 Played at Cleveland Rocs Old School 02-2019
 
 ![White Wenie as-of June 26th, 2020](/assets/images/andy062620.jpg)
-
+<br>
+<br>
+*"Hypocrisy"*
 ![Hypocrisy as-of July 11th, 2020](/assets/images/hypocrisy.jpg)
 
 ___
