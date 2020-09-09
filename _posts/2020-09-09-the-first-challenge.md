@@ -49,4 +49,4 @@ All players who provide their address in the sign-up form will also recieve a fr
 All players who prodide proof of a $5+ donation to a charity of their choice will be entered in a raffle for a special prize!
 
 
-So what are you waiting for? Fill out the [Registration Form](https://forms.gle/WGjs94Hu3zSTqyRj6), join [our Discord server](https://discord.gg/fDdeJj5), and come play some Old School!
+So what are you waiting for? Fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScqGKgLPNuJ2NrPnqZrtxsSmbKcgPY0lvQtHCY1jRd9jT6HTQ/viewform?usp=sf_link), join [our Discord server](https://discord.gg/fDdeJj5), and come play some Old School!
