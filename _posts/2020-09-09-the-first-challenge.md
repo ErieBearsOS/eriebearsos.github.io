@@ -6,14 +6,18 @@ tags:
   - meetup
 ---
 
-Well, after three months of not doing much past buying cards, we've decided it's time to run something! Welcome to *The First Challenge*!
+## Three Months Later...
+
+Well, not a ton has happened yet. Members are scattered, in-person games are rough, and interest is a meme.
+
+"Why not run an event?"
+
+**Welcome to The First Challenge!**
 
 ### Date 
-<br>
 26th of September, 2020
 
 ### Time
-<br>
 Rounds will start at 2PM. Please be early so we can go over rules, answer questions, and make sure you're in the bracket!
 
 ### Structure
