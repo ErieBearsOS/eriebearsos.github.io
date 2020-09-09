@@ -8,11 +8,11 @@ tags:
 
 ## Three Months Later...
 
-Well, not a ton has happened yet. Members are scattered, in-person games are rough, and interest is a meme.
-
-"Why not run an event?"
+Well, not a ton has happened yet. Members are scattered, in-person games are rough, and interest is a meme. We decided the best idea to get things rolling was to do a proper event, so here goes nothing...
 
 **Welcome to The First Challenge!**
+
+## Info for Players:
 
 ### Date 
 26th of September, 2020
@@ -21,27 +21,22 @@ Well, not a ton has happened yet. Members are scattered, in-person games are rou
 Rounds will start at 2PM. Please be early so we can go over rules, answer questions, and make sure you're in the bracket!
 
 ### Structure
-<br>
 Swiss pairings (Round Robin if not enough registrants)
 
 ### Participant Cap
-<br>
 Up to 24 players may participate.
 
 ### Format
-<br>
 [Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with full EC/American reprint policy. 
 
 Proxies and other playtest cards are allowed! You are limited, you may only proxy up to two Power Nine cards, and make sure to keep an old school asthetic on any and all proxies!
 
 ### Entry Fee
-<br>
 This event is free! 
-<br>
+
 If you would like to provide a reciept of a donation (minimum $5) to any charity or fund of your choosing then you'll be added in a "raffle" for a special prize!
 
 ### Decklists
-<br>
 Submit your decklist in the form of a completed photo, similar to those on the Decks page, in the "TFC Decks" channel of [our Discord server](https://discord.gg/fDdeJj5).
 
 ### Prize
