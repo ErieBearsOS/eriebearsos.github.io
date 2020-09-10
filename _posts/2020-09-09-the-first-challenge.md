@@ -24,13 +24,15 @@ Up to **24 players** may participate in The First Challenge.
 ### Format
 [Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with all reprints that follow the same card art and frame as their original printing allowed (Eternal Centarl/American reprint policy).
 
-**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only proxy **up to two Power Nine** cards per-deck. Please try to keep them as old school as possible!
+**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only proxy **up to two Power Nine proxies per-deck.** Please try to keep them as old school as possible, avoid modern alt. arts and play the originals!
 ### Play Method
-We'll be doing **webcam games** for the whole event. Make sure your deck is somehow done physically, give us the picture, then shoot your playfield with a webcam or phone and play cards on it!
+We'll be doing **webcam games** for the whole event by using **Discord**. Make sure your deck is somehow done physically, give us the picture, then shoot your playfield with a webcam or phone and play cards on it! 
+
+If you need help setting up then by all means contact one of our members through our Discord (provided below) and view the many articles written about how to get them going.
 ### Entry Fee
 This event is **free** for anyone to enter! 
 
-If you would like to be entered in our raffle for a special prize, please submit a reciept of you **donating at least $5 to any charity or fund of your choice** to the EBOS Discord Admin (*Erie Bears*) at any time before or during the event. Yes, Humble Bundle (if charity is set to $5+) counts for this event!
+If you would like to be **entered in our raffle** for a special prize, please **submit a reciept of you donating at least $5 to any charity or fund of your choice** to the EBOS Discord Admin (*Erie Bears*) at any time before or during the event. *Yes, Humble Bundle (if charity is set to $5+) counts for this event!*
 ### Decklists
 Submit your decklist in the form of a **title and completed photo**, similar to those on the [Decks](/decks/) page, in the **decklists** channel of [our Discord server](https://discord.gg/fDdeJj5) before 11:59PM on Friday, September 25th. 
 
