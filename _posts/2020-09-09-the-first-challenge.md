@@ -14,27 +14,29 @@ Well, not a ton has happened yet. Members are scattered, in-person games are rou
 
 
 ### Date 
-26th of September, 2020
+**26th of September, 2020**
 ### Time
-Rounds will start at 2PM. Please be early so we can go over rules, answer questions, and make sure you're in the bracket! Rounds will go on until a first place can be determined, so prepare to stay a while if things go long.
+Rounds will **start at 2PM.** Please be early so we can go over rules, answer questions, and make sure you're in the bracket! Rounds will go on until a first place can be determined, so prepare to stay a while if things go long.
 ### Structure
-Swiss pairings (Round Robin if not enough registrants) with 50 minutes per-round. A 10 to 15-minute intermission will be provided between rounds for food, bathroom breaks, conversing, etc.
+**Swiss pairings** (*Round Robin if not enough registrants*) with 50 minutes per-round. A 10 to 15-minute intermission will be provided between rounds for food, bathroom breaks, conversing, etc.
 ### Participant Cap
-Up to 24 players may participate in The First Challenge.
+Up to **24 players** may participate in The First Challenge.
 ### Format
 [Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with all reprints that follow the same card art and frame as their original printing allowed (Eternal Centarl/American reprint policy).
 
-Proxies and other playtest cards are allowed, decks may even be full-proxy if you don't own any old school cards, but players may only proxy up to **two** Power Nine cards per-deck. Please try to keep them as old school as possible!
+**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only proxy **up to two Power Nine** cards per-deck. Please try to keep them as old school as possible!
+### Play Method
+We'll be doing **webcam games** for the whole event. Make sure your deck is somehow done physically, give us the picture, then shoot your playfield with a webcam or phone and play cards on it!
 ### Entry Fee
-This event is free for anyone to enter! 
+This event is **free** for anyone to enter! 
 
-If you would like to be entered in our raffle for a special prize, please submit a reciept of you donating **at least $5** to any charity or fund of your choice to the EBOS Discord Admin (Erie Bears) at any time before or during the event.
+If you would like to be entered in our raffle for a special prize, please submit a reciept of you **donating at least $5 to any charity or fund of your choice** to the EBOS Discord Admin (*Erie Bears*) at any time before or during the event. Yes, Humble Bundle (if charity is set to $5+) counts for this event!
 ### Decklists
-Submit your decklist in the form of a title and completed photo, similar to those on the [Decks](/decks/) page, in the *decklists* channel of [our Discord server](https://discord.gg/fDdeJj5) before 11:59PM on Friday, September 25th. 
+Submit your decklist in the form of a **title and completed photo**, similar to those on the [Decks](/decks/) page, in the **decklists** channel of [our Discord server](https://discord.gg/fDdeJj5) before 11:59PM on Friday, September 25th. 
 
-No, we do not accept tappedout or other online deck generator links, we want a photo of your spread for the event report.
+No, we **do not** accept tappedout or other online deck generator links, we want a photo of your spread for the event report.
 ### Prize
-Prizes will be provided to those who play!
+**We do have prize support!** The breakdown goes as-follows:
 
 * 1st Place - 1x Antiquities *Strip Mine*
 
@@ -46,7 +48,8 @@ Prizes will be provided to those who play!
 
 All players who provide their address in the sign-up form will also recieve a free EBOS-signed *Grizzly Bears*!
 
-All players who prodide proof of a $5+ donation to a charity of their choice will be entered in a raffle for a special prize!
+All players who prodide proof of a $5+ donation to a charity of their choice will be entered in a raffle for a special prize worth a bit more than 1st place!
 
+---
 
-So what are you waiting for? Fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScqGKgLPNuJ2NrPnqZrtxsSmbKcgPY0lvQtHCY1jRd9jT6HTQ/viewform?usp=sf_link), join [our Discord server](https://discord.gg/fDdeJj5), and come play some Old School!
+**So what are you waiting for?** Fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScqGKgLPNuJ2NrPnqZrtxsSmbKcgPY0lvQtHCY1jRd9jT6HTQ/viewform?usp=sf_link), join [our Discord server](https://discord.gg/fDdeJj5), and come play some Old School!
