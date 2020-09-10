@@ -24,7 +24,7 @@ Up to **24 players** may participate in The First Challenge.
 ### Format
 [Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with all reprints that follow the same card art and frame as their original printing allowed (Eternal Centarl/American reprint policy).
 
-**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only proxy **up to two Power Nine proxies per-deck.** Please try to keep them as old school as possible, avoid modern alt. arts and play the originals!
+**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only have **up to two Power Nine proxies per-deck.** Please try to keep them as old school as possible, avoid modern alt. arts and play the originals!
 ### Play Method
 We'll be doing **webcam games** for the whole event by using **Discord**. Make sure your deck is somehow done physically, give us the picture, then shoot your playfield with a webcam or phone and play cards on it! 
 
