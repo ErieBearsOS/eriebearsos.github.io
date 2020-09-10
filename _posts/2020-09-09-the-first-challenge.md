@@ -18,7 +18,7 @@ Well, not a ton has happened yet. Members are scattered, in-person games are rou
 ### Time
 Rounds will **start at 2PM.** Please be early so we can go over rules, answer questions, and make sure you're in the bracket! Rounds will go on until a first place can be determined, so prepare to stay a while if things go long.
 ### Structure
-**Swiss pairings** (*Round Robin if not enough registrants*) with 50 minutes per-round. A 10 to 15-minute intermission will be provided between rounds for food, bathroom breaks, conversing, etc.
+**Swiss pairings** (*Round Robin if not enough registrants*) with 50 minutes per-round. A 10 to 15-minute intermission will be provided between rounds for food, bathroom breaks, conversing, etc. Do know that there will be no draws, tied matches will be determined by a Chaos Orb (or Proxy Orb) flip-off between the tied players.
 ### Participant Cap
 Up to **24 players** may participate in The First Challenge.
 ### Format
