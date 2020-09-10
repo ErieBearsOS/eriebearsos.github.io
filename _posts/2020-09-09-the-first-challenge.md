@@ -23,7 +23,7 @@ Rounds will **start at 2PM.** Please be early so we can go over rules, answer qu
 ### Participant Cap
 Up to **24 players** may participate in The First Challenge.
 ### Format
-[Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with all reprints that follow the same card art and frame as their original printing allowed (Eternal Centarl/American reprint policy).
+[Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with all reprints that follow the same card art and frame as their original printing allowed (Eternal Central/American reprint policy).
 
 **Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only have **up to two Power Nine proxies per-deck.** Please try to keep them as old school as possible, avoid modern alt. arts and play the originals!
 ### Play Method
