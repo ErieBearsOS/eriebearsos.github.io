@@ -12,7 +12,7 @@ Well, not a ton has happened yet. Members are scattered, in-person games are rou
 
 **Welcome to The First Challenge!**
 
-![/assets/EBOS-TFC.png]
+![TFC](/assets/EBOS-TFC.png)
 
 ### Date 
 **26th of September, 2020**
