@@ -47,7 +47,7 @@ No, we **do not** accept tappedout or other online deck generator links, we want
 
 * 3rd Place - 4x Antiquities *Millstone*
 
-* Spiciest Desk - 1x *Fallen Empires Booster Pack* + 1x hand-altered card by an EBOS member
+* *Spiciest* Deck - 1x *Fallen Empires Booster Pack* + 1x hand-altered card by an EBOS member
 
 All players who provide their address in the sign-up form will also recieve a free club card - an EBOS-signed *Grizzly Bears* - which can be brought to future events for possible bonuses and signatures!
 
