@@ -55,4 +55,6 @@ All players who prodide proof of a $5+ donation to a charity of their choice wil
 
 ---
 
-**So what are you waiting for?** Fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScqGKgLPNuJ2NrPnqZrtxsSmbKcgPY0lvQtHCY1jRd9jT6HTQ/viewform?usp=sf_link), join [our Discord server](https://discord.gg/fDdeJj5), and come play some Old School!
+**So what are you waiting for?** 
+
+Fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScqGKgLPNuJ2NrPnqZrtxsSmbKcgPY0lvQtHCY1jRd9jT6HTQ/viewform?usp=sf_link), join [our Discord server](https://discord.gg/fDdeJj5), and come play some Old School! We'll gladly help you as much as we can to make sure you have a good time!
