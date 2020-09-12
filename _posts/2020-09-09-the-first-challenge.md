@@ -43,7 +43,7 @@ No, we **do not** accept tappedout or other online deck generator links, we want
 
 * 1st Place - 1x Antiquities *Strip Mine*
 
-* 2nd Place - 1x Alpha *Gray Ogre*
+* 2nd Place - 1x Alpha *Gray Ogre* + 1x Alpha *Hurloon Minotaur*
 
 * 3rd Place - 4x Antiquities *Millstone*
 
