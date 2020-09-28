@@ -19,20 +19,19 @@ A "sign-up" form went out, I shouted the event out a few times in the Discord se
 Everyone who participated got a few freebie cards, notably a player-signed 3ED Grizzly Bears "event card" and a second random signed card.
 
 1st got an Antiquities **Strip Mine**,
-
-![1st](https://imgur.com/CfY63qcl.jpg)
+![1st](https://imgur.com/CfY63qcm.jpg)
 
 2nd got an Alpha **Gray Ogre** and **Hurloon Minotaur**,
-![2nd](https://imgur.com/mhanDoNl.jpg)
+![2nd](https://imgur.com/mhanDoNm.jpg)
 
 and 3rd got four Antiquities **Millstone**s.
-![3rd](https://imgur.com/5ZCsJJFl.jpg)
+![3rd](https://imgur.com/5ZCsJJFm.jpg)
 
 The spiciest deck got a pack of **Fallen Empires** (which was opened on-stream by request) and also gets a mystery alter,
-![Spiciest](https://imgur.com/S5k8JN6l.jpg)
+![Spiciest](https://imgur.com/S5k8JN6m.jpg)
 
 And finally the person with the best play got an Unlimited **Karma** and World Championship **Land Tax**.
-![Best](https://imgur.com/my150m4l.jpg)
+![Best](https://imgur.com/my150m4m.jpg)
 
 ---
 
@@ -76,7 +75,7 @@ I won my own event, something I was trying to not do. Due to this I shifted all 
 ![Best Play](https://imgur.com/nJ6nYe0.jpg)
 
 Also, due to a decision to give Caleb the Millstones because of how much he loves Antiquities, Chris got an alternate 3rd-place prize featuring an Unlimited **False Orders**, a Japanese Chronicles **Arcades Sabboth**, and an Unlimited **Black Vise**.
-![Alt 3rd Place](https://imgur.com/QpDQkltl.jpg)
+![Alt 3rd Place](https://imgur.com/QpDQkltm.jpg)
 
 ---
 
