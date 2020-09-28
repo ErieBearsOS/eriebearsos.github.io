@@ -74,7 +74,7 @@ I won my own event, something I was trying to not do. Due to this I shifted all 
 **Best Play** went to Chris landing a killer opening hand which made a game on-turns get decided before it ever became a time issue.
 ![Best Play](https://imgur.com/nJ6nYe0.jpg)
 
-Also, due to a decision to give Caleb the Millstones because of how much he loves Antiquities, Chris got an alternate 3rd-place prize featuring an Unlimited **False Orders**, a Japanese Chronicles **Arcades Sabboth**, and an Unlimited **Black Vise**.
+Also, due to a decision to give Caleb the Millstones because of how much he loves Antiquities, Chris got an alternate 3rd-place prize featuring a Chronicles **City of Brass**, a Japanese Chronicles **Arcades Sabboth**, and an Unlimited **Black Vise**.
 ![Alt 3rd Place](https://imgur.com/QpDQkltm.jpg)
 
 ---
