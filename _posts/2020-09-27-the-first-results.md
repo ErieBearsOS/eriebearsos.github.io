@@ -27,7 +27,7 @@ Everyone who participated got a few freebie cards, notably a player-signed 3ED G
 
 ![2nd](https://imgur.com/mhanDoNm.jpg)
 
-and 3rd got four Antiquities **Millstone**s.
+and 3rd got a playset of Antiquities **Millstone**.
 
 ![3rd](https://imgur.com/5ZCsJJFm.jpg)
 
@@ -35,10 +35,11 @@ The spiciest deck got a pack of **Fallen Empires** (which was opened on-stream b
 
 ![Spiciest](https://imgur.com/S5k8JN6m.jpg)
 
-And finally the person with the best play got an Unlimited **Karma** and World Championship **Land Tax**.
+The person with the best play got an Unlimited **Karma** and World Championship **Land Tax**.
 
 ![Best](https://imgur.com/my150m4m.jpg)
 
+And finally everyone (that wasn't me) who made a donation to charity ($5 minimum) was entered in a raffle for an ICE **Icy Manipulator!**
 
 ## Decks
 
