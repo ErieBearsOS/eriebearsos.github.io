@@ -16,16 +16,6 @@ Sure we're coming right off of last event, but why not go for another? The last 
 ### Format
 [Old School Brawl](https://sentineloldschoolmtg.com/old-school-brawl-a-93-94-commander-variant/)
 
-**TL;DR:**
-
-* 59 card singleton with one "Commander" card,
-* All cards in the main deck must follow the color identity of the "Commander",
-* There is no sideboard,
-* Players start at **20** life,
-* *Ring of Ma'ruf* is legal and may fetch any Old School Brawl-legal card not already in the deck
-
-Do know that the *Recommended Banned List* **will** be used!
-
 ---
 
 ### Date & Time
@@ -34,21 +24,21 @@ The event will be held on **October 24th** starting at **1PM**.
 ---
 
 ### Structure
-Players will be seperated into 4-man pods and will play games in a Round Robin fashion, playing a best-of-one with 50 minutes, until they've played everyone else in their pod.
+Players will be seperated into 4-man pods. Games will be held in Round Robin fashion, each player playing a best-of-one game against their opponent, until they've played everyone else in their pod. Games will be on a 50-minute time limit, any game that goes past this time will be moved to turns with the highest life total determining the winner. Ties will be solved by Orb flip-off.
 
-An odd number of registered players will be solved before the event with the organizer (Andrew) dropping if nessecary.
+The winners of each pod will be placed in one final (possibly) multiplayer match with placement determined by the order in which players are knocked out.
 
-The winners of each pod will be placed in one final (possibly) multiplayer match with placement determined by the order in which people are knocked out.
+Odd numbers of players and incomplete pods will be solved the morning of the event by Andrew.
 
 ---
 
 ### Participant Cap
-Up to **16** players may enter in this event.
+Up to **16** players may enter this event.
 
 ---
 
 ### Proxies & Reprints
-All 59 cards in the main deck may be proxied however you like. 
+All 59 cards in the main deck may be proxied however you like.
 
 The "commander" card **must** be a real Old School-legal copy. If you can't get a copy or it costs too much then a gold-border blank with hand-drawn proxy/artist proof/artist sketch is also considered acceptable. Printed proxies will **instantly** disqualify your deck from the tournament!
 
@@ -56,8 +46,10 @@ All reprints with the same original card art and frame, such as a Chronicles *Ni
 
 ---
 
-### B&R
+### B&R & House Rule
 As-mentioned above, we will be following the standard *and* recommended Banned List shown on the Sentinel Old School page. This means that players may not play **City in a Bottle, Karakas, Library of Alexandria, Ancestral Recall, Braingeyser,** or **Mind Twist** in their deck. All other cards are allowed, we won't be adding any more bans.
+
+All *Bands with other Legends* lands, by house rule, may also be tapped for the one mana of the color they represent.
 
 ---
 
@@ -71,9 +63,9 @@ All players who participate will get a free 3ED *Grizzle Bears* and an additiona
 
 **1st:** 1x Alpha *Grizzly Bears*
 
-**2nd:** 1x Beta *Grizzly Bears*
+**2nd:** 1x Chronicles Booster Pack
 
-**3rd:** 1x Collector's Edition *Grizzly Bears*
+**3rd:** 1x Beta *Grizzly Bears*
 
 **Spiciest Deck:** 1x *Chronicles Booster Pack*
 
