@@ -6,7 +6,7 @@ title: "Decks"
 ### Andrew
 *"Yet Another Weenie Nerd (YAWN)"*
 
-![YAWN](/assets/images/tfcandrew.png)
+![YAWN](/assets/images/tfcandrew.jpg)
 
 ___
 
