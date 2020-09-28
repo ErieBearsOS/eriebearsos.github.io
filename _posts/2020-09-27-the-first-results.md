@@ -80,6 +80,8 @@ Also, due to a decision to give Caleb the Millstones because of how much he love
 
 ---
 
-With how well that went, everyone seemed to have a great time, we plan on running another event sometime next month. We're not sure how open it'll be, that's to figure out later, but 93/94 Brawl seems like quite the fun thing to try...
+With how well that went, everyone seemed to have a great time, we plan on running another event sometime next month! 
+
+We're not sure how open it'll be, that's to figure out later, but 93/94 Brawl seems like quite the fun thing to try. I'll be on the lookout for prizes, some more stuff I can get autographed, and maybe some stuff to draw new people in...
 
 *-Andrew, Event Organizer*
