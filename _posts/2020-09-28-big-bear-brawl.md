@@ -65,11 +65,11 @@ All players who participate will get a free 3ED *Grizzle Bears* and an additiona
 
 **1st:** 1x Alpha *Grizzly Bears*
 
-**2nd:** 2x Beta *Grizzly Bears*
+**2nd:** 1x Beta *Grizzly Bears* + 1x Surprise
 
-**3rd:** 5x Unlimited lands (1 of each Basic) + surprise!
+**3rd:** 5x Unlimited lands (1 of each Basic) + 1x Surprise
 
-**Spiciest Deck:** Surprise!
+**Spiciest Deck:** Big Surprise!
 
 ---
 
