@@ -9,7 +9,9 @@ Sure we're coming right off of last event, but why not go for another? The last 
 
 ### Welcome to Big Bear Brawl*!
 
-![TFC](/assets/images/bigbearbrawl.png)
+![BBB](/assets/images/bigbearbrawl.png)
+
+---
 
 ### Format
 [Old School Brawl](https://sentineloldschoolmtg.com/old-school-brawl-a-93-94-commander-variant/)
@@ -24,8 +26,12 @@ Sure we're coming right off of last event, but why not go for another? The last 
 
 Do know that the *Recommended Banned List* **will** be used!
 
+---
+
 ### Date & Time
 The event will be held on **October 24th** starting at **1PM**.
+
+---
 
 ### Structure
 Players will be seperated into 4-man pods and will play games in a Round Robin fashion, playing a best-of-one with 50 minutes, until they've played everyone else in their pod.
@@ -34,8 +40,12 @@ An odd number of registered players will be solved before the event with the org
 
 The winners of each pod will be placed in one final (possibly) multiplayer match with placement determined by the order in which people are knocked out.
 
+---
+
 ### Participant Cap
 Up to **16** players may enter in this event.
+
+---
 
 ### Proxies & Reprints
 Up to all 59 cards in the main deck may be proxied however you like. 
@@ -44,11 +54,17 @@ You **must** own an Old School legal copy or hand-made (with some amount of colo
 
 All reprints with the same original card art and frame, such as a Chronicles *Nicol Bolas* or a Timeshifted *Psionic Blast*, are allowed as we follow Eternal Central reprint rules.
 
+---
+
 ### B&R
 As-mentioned above, we will be following the standard *and* recommended Banned List shown on the Sentinel Old School page. This means that players may not play **City in a Bottle, Karakas, Library of Alexandria, Ancestral Recall, Braingeyser,** or **Mind Twist** in their deck. All other cards are allowed, we won't be adding any more bans.
 
+---
+
 ### Decklists
 Decklists must be submitted in the form of a **photo and title**, similar to those on our [Decks](https://eriebearsos.com/decks/) page, the day before the event.
+
+---
 
 ### Prize
 All players who participate will get a free 3ED *Grizzle Bears* and an additional "event card" (random stuff from Andrew's collection) signed by various EBOS members. In addition, there will be things for placement:
