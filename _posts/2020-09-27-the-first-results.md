@@ -34,7 +34,7 @@ And finally the person with the best play got an Unlimited **Karma** and World C
 
 Andrew - *Yet Another Weenie Nerd (YAWN)*
 
-![https://imgur.com/VIsoJqE]
+!(https://imgur.com/VIsoJqE)
 
 Brandon - *Derpy RUG*
 
