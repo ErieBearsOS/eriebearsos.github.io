@@ -41,6 +41,9 @@ The person with the best play got an Unlimited **Karma** and World Championship 
 
 And finally everyone (that wasn't me) who made a donation to charity ($5 minimum) was entered in a raffle for an ICE **Icy Manipulator!**
 
+![Charity](https://imgur.com/dMnYOm0m.jpg)
+
+
 ## Decks
 
 Andrew - *Yet Another Weenie Nerd (YAWN)*
@@ -83,6 +86,7 @@ Some random screenshots were taken, some involve quite the busy board...
 
 I don't know too well about the other perspectives but I sure know that my games were a surprise. I didn't expect the plan of "Bring the Disenchant, a card I love, in on Game 2" to actually do good work and I may even leave my personal White Weenie deck in the configuration above because it was a ton more fun.
 
+
 ## Results
 
 ![Results](https://imgur.com/GomaPT5.jpg)
@@ -99,9 +103,12 @@ Also, due to a decision to give Caleb the Millstones because of how much he love
 
 ![Alt 3rd Place](https://imgur.com/QpDQkltm.jpg)
 
----
+We raised $55.01 for charity, I made a donation of $50 and Brandon did $5.01. Due to me not being able to win things, Brandon got the nice Icy Manipulator with no competition.
 
-With how well that went, everyone seemed to have a great time, we plan on running another event sometime next month! 
+
+## Conclusion
+
+With how well that went, everyone seemed to have a great time, we plan on running another event sometime next month. A huge thanks again to everyone who attended!
 
 We're not sure how open it'll be, that's to figure out later, but 93/94 Brawl seems like quite the fun thing to try. I'll be on the lookout for prizes, some more stuff I can get autographed, and maybe some stuff to draw new people in...
 
