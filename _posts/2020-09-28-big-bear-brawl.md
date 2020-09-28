@@ -64,12 +64,9 @@ Decklists must be submitted in the form of a **photo and title**, similar to tho
 All players who participate will get a free 3ED *Grizzle Bears* and an additional "event card" (random stuff from Andrew's collection) signed by various EBOS members. In addition, there will be things for placement:
 
 **1st:** 1x Alpha *Grizzly Bears*
-
-**2nd:** 1x Chronicles Booster Pack
-
-**3rd:** 1x Beta *Grizzly Bears*
-
-**Spiciest Deck:** 1x *Chronicles Booster Pack*
+**2nd:** TBD
+**3rd:** TBD
+**Spiciest Deck:** A surprise!
 
 ---
 
