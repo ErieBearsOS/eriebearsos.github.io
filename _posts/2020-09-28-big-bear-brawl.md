@@ -28,7 +28,7 @@ The event will be held digitally via our Discord server on **October 24th** star
 * Games will be held in Round Robin fashion, each player playing a best-of-one game against their opponent, until they've played everyone else in their pod
 * The winners of each pod will be placed in one final (possibly) multiplayer match with placement determined by the order in which players are knocked out.
 
-Games will be on a 50-minute time limit, any game that goes past this time will be moved to turns with the highest life total determining the winner. Ties will be solved by Orb flip-off.
+Games will be in 1v1 fashion on a 50-minute time limit. Any game that goes past this time will be moved to turns with the highest life total determining the winner. Ties post-Turns will be solved by Orb flip-off.
 
 Odd numbers of players and incomplete pods will be solved the morning of the event by Andrew.
 
