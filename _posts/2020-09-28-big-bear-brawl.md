@@ -42,7 +42,7 @@ Up to **16** players may enter this event.
 ### Proxies & Reprints
 All 59 cards in the main deck may be proxied however you like.
 
-The "commander" card **must** be a real Old School-legal copy. If you can't get a copy or it costs too much then a gold-border blank with hand-drawn proxy/artist proof/artist sketch is also considered acceptable. Printed proxies will **instantly** disqualify your deck from the tournament!
+The "commander" card **must** be a real Old School-legal copy. If you can't get a copy or it costs too much then a gold-border blank with hand-drawn proxy/artist proof/artist sketch is also considered acceptable. Printed proxies of the "commander" card will **instantly** disqualify your deck from the tournament!
 
 All reprints with the same original card art and frame, such as a Chronicles *Nicol Bolas* or a Timeshifted *Psionic Blast*, are allowed as we follow Eternal Central reprint rules.
 
@@ -51,7 +51,7 @@ All reprints with the same original card art and frame, such as a Chronicles *Ni
 ### B&R & House Rule
 As-mentioned above, we will be following the standard *and* recommended Banned List shown on the Sentinel Old School page. This means that players may not play **City in a Bottle, Karakas, Library of Alexandria, Ancestral Recall, Braingeyser,** or **Mind Twist** in their deck. All other cards are allowed, we won't be adding any more bans.
 
-All *Bands with other Legends* lands, by house rule, may also be tapped for the one mana of the color they represent.
+**House Rule:** All *Bands with other Legends* lands may also be tapped for the one mana of the color they represent.
 
 ---
 
