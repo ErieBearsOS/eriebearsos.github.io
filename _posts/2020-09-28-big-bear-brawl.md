@@ -48,9 +48,9 @@ Up to **16** players may enter in this event.
 ---
 
 ### Proxies & Reprints
-Up to all 59 cards in the main deck may be proxied however you like. 
+All 59 cards in the main deck may be proxied however you like. 
 
-You **must** own an Old School legal copy or hand-made (with some amount of color and on a gold-border blank) proxy of your commander card. Printed proxies of your commander will instantly disqualify your deck from play!
+The "commander" card **must** be a real Old School-legal copy. If you can't get a copy or it costs too much then a gold-border blank with hand-drawn proxy/artist proof/artist sketch is also considered acceptable. Printed proxies will **instantly** disqualify your deck from the tournament!
 
 All reprints with the same original card art and frame, such as a Chronicles *Nicol Bolas* or a Timeshifted *Psionic Blast*, are allowed as we follow Eternal Central reprint rules.
 
@@ -76,6 +76,8 @@ All players who participate will get a free 3ED *Grizzle Bears* and an additiona
 **3rd:** 1x Collector's Edition *Grizzly Bears*
 
 **Spiciest Deck:** 1x *Chronicles Booster Pack*
+
+---
 
 ### Entry Fee
 The event is free for anyone to enter!
