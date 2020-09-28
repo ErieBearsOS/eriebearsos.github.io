@@ -12,9 +12,8 @@ Why run the event? Well, to be entirely honest, I just wanted to get a few good 
 
 A "sign-up" form went out, I shouted the event out a few times in the Discord server for the game club I'm (somewhat) a part of from school, and after a few weeks we had a solid eight people sign up to play. We allowed full-proxy lists but only with two pieces of the Power Nine and followed Atlantic B&R. Everything was held digitally (except for one game as three of the players were roommates who could just use their table for it) through our Discord server, just a three-round Swiss that way it didn't run too long but everyone got to see some different decks, and it went a lot smoother than I would've expected.
 
----
 
-### Prizes
+## Prizes
 
 Everyone who participated got a few freebie cards, notably a player-signed 3ED Grizzly Bears "event card" and a second random signed card.
 
@@ -38,9 +37,8 @@ And finally the person with the best play got an Unlimited **Karma** and World C
 
 ![Best](https://imgur.com/my150m4m.jpg)
 
----
 
-### Decks
+## Decks
 
 Andrew - *Yet Another Weenie Nerd (YAWN)*
 ![YAWN](https://imgur.com/VIsoJqE.jpg)
@@ -66,9 +64,23 @@ Leland - Unnamed BRG Aggro
 Tyler - *Green New Deal*
 ![Green New Deal](https://imgur.com/R9JCrYj.jpg)
 
----
 
-### Results
+## Playing
+
+As-mentioned above, the game was a three-round Swiss.
+
+Some random screenshots were taken, some involve quite the busy board...
+![Caleb](https://imgur.com/186K2uU.jpg)
+
+...some involve decks that look like they're doing a lot but aren't actually doing much...
+![Jerry](https://imgur.com/drhSbs2.jpg)
+
+...and we even got two games which went to Orb flips!
+![ORB!](https://imgur.com/7Gj8ZJl.jpg)
+
+I don't know too well about the other perspectives but I sure know that my games were a surprise. I didn't expect the plan of "Bring the Disenchant, a card I love, in on Game 2" to actually do good work and I may even leave my personal White Weenie deck in the configuration above because it was a ton more fun.
+
+## Results
 
 ![Results](https://imgur.com/GomaPT5.jpg)
 
