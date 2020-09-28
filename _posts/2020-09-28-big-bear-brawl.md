@@ -64,9 +64,12 @@ Decklists must be submitted in the form of a **photo and title**, similar to tho
 All players who participate will get a free 3ED *Grizzle Bears* and an additional "event card" (random stuff from Andrew's collection) signed by various EBOS members. In addition, there will be things for placement:
 
 **1st:** 1x Alpha *Grizzly Bears*
-**2nd:** TBD
-**3rd:** TBD
-**Spiciest Deck:** A surprise!
+
+**2nd:** 2x Beta *Grizzly Bears*
+
+**3rd:** 5x Unlimited lands (1 of each Basic) + surprise!
+
+**Spiciest Deck:** Surprise!
 
 ---
 
@@ -77,6 +80,6 @@ If you would like, a (minimum $5) donation to any charity of your choise would b
 
 ---
 
-Fill out the Registration Form (TBD) and join our [Discord server](https://discord.com/invite/fDdeJj5) for updates and more information! We're happy to help you build a deck if you're new to the format and we hope that everyone who plays has a fun time!
+Fill out the [Registration Form](https://forms.gle/qq53bhcxzz3ELKP66) and join our [Discord server](https://discord.com/invite/fDdeJj5) for updates and more information! We're happy to help you build a deck if you're new to the format and we hope that everyone who plays has a fun time!
 
 <i>* - Nobody from this event is actually at Big Bear, CA. Sorry if that disappoints you!</i>
