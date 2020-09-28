@@ -22,7 +22,7 @@ Everyone who participated got a few freebie cards, notably a player-signed 3ED G
 
 2nd got an Alpha **Gray Ogre** and **Hurloon Minotaur**,
 
-and 3rd got four Antiquities *Millstone**s.
+and 3rd got four Antiquities **Millstone**s.
 
 The spiciest deck got a pack of **Fallen Empires** (which was opened on-stream by request) and also gets a mystery alter,
 
@@ -33,6 +33,8 @@ And finally the person with the best play got an Unlimited **Karma** and World C
 ### Decks
 
 Andrew - *Yet Another Weenie Nerd (YAWN)*
+
+[YAWN](https://imgur.com/VIsoJqE)
 
 Brandon - *Derpy RUG*
 
