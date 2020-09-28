@@ -17,6 +17,8 @@ A "sign-up" form went out, I shouted the event out a few times in the Discord se
 
 Everyone who participated got a few freebie cards, notably a player-signed 3ED Grizzly Bears "event card" and a second random signed card.
 
+![For Everyone!](https://imgur.com/ELLXCzIm.jpg)
+
 1st got an Antiquities **Strip Mine**,
 
 ![1st](https://imgur.com/CfY63qcm.jpg)
