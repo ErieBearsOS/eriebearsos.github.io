@@ -7,7 +7,7 @@ tags:
 
 Sure we're coming right off of last event, but why not go for another? The last was a ton of fun! Still though, doing another plain 93/94 event seems too simple...
 
-### Welcome to Big Bear Brawl!
+### Welcome to Big Bear Brawl*!
 
 ![TFC](/assets/images/bigbearbrawl.png)
 
@@ -34,7 +34,9 @@ All reprints with the same card art and frame, such as a Chronicles *Nicol Bolas
 As-mentioned above, we will be following the standard *and* recommended Banned List shown on the Sentinel Old School page. This means that players may not play **City in a Bottle, Karakas, Library of Alexandria, Ancestral Recall, Braingeyser,** or **Mind Twist** in their deck. All other cards are allowed, we won't be adding any more bans.
 
 ### Entry Fee
-All players 
+The event is free for anyone to enter!
+
+If you would like, a (minimum $5) donation to any charity of your choise 
 
 ### Decklists
 Decklists must be submitted in the form of a **photo and title**, similar to those on our [Decks](https://eriebearsos.com/decks/) page, the day before the event.
@@ -53,3 +55,5 @@ All players who participate will get a free 3ED *Grizzle Bears* and an additiona
 ---
 
 Fill out the Registration Form (TBD) and join our [Discord server](https://discord.com/invite/fDdeJj5) and you'll be in! We're happy to help you build a deck if you're new to the format and we hope that everyone who plays has a fun time!
+
+<i>* - Nobody from this event is actually at Big Bear, CA. Sorry if that disappoints you!</i>
