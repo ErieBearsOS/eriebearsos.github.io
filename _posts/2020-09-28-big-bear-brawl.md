@@ -19,7 +19,7 @@ Sure we're coming right off of last event, but why not go for another? The last 
 ---
 
 ### Date & Time
-The event will be held on **October 24th** starting at **1PM**.
+The event will be held digitally via our Discord server on **October 24th** starting at **1PM EST**.
 
 ---
 
