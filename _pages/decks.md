@@ -4,31 +4,20 @@ title: "Decks"
 ---
 
 ### Andrew
-*"White Weenie"*
+*"Yet Another Weenie Nerd (YAWN)"*
 
-Played at Cleveland Rocs Old School 02-2019
-
-![White Wenie as-of June 26th, 2020](/assets/images/andy062620.jpg)
-<br>
-<br>
-*"Hypocrisy"*
-
-![Hypocrisy as-of July 11th, 2020](/assets/images/hypocrisy.jpg)
+![YAWN](/assets/images/tfcandrew.png)
 
 ___
 
 ### Jeff
-*"Black Weenie"*
+*"The Dark Returns V2"*
 
-Played at Columbus Kobolds Butterball, Philadelphia Old School "Balance 2020"
-
-![Black Weenie as-of June 19th, 2020](/assets/images/jeff062620.jpg)
+![TDR](/assets/images/tfcjeff.png)
 
 ___
 
 ### Jerry
-*"Kobolds"*
+*"Kobolds of the Howling Mine 2: Demonic Incursion"*
 
-Played at Columbus Kobolds Butterball
-
-![Kobolds as-of November 23rd, 2020](/assets/images/jerry112319.jpg)
+![KHM2DI](/assets/images/tfcjerry.png)
