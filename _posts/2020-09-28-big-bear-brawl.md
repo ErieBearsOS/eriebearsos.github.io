@@ -61,7 +61,7 @@ Decklists must be submitted in the form of a **photo and title**, similar to tho
 ---
 
 ### Prize
-All players who participate will get a free 3ED *Grizzle Bears* and an additional "event card" (random stuff from Andrew's collection) signed by various EBOS members. In addition, there will be things for placement:
+All players who participate will get a free 3ED *Grizzly Bears* and an additional "event card" (random stuff from Andrew's collection) signed by various EBOS members. In addition, there will be things for placement:
 
 **1st:** 1x Alpha *Grizzly Bears*
 
