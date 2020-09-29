@@ -20,7 +20,7 @@ ___
 ### Caleb
 *"Brother's War"*
 
-![BW](/assets/images/tfccaleb.jpg]
+![BW](/assets/images/tfccaleb.jpg)
 
 ---
 
