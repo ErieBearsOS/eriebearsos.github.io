@@ -76,7 +76,7 @@ All players who participate will get a free 3ED *Grizzly Bears* and an additiona
 ### Entry Fee
 The event is free for anyone to enter!
 
-If you would like, a (minimum $5) donation to any charity of your choise would be greatly appreciated and may even enter you in a raffle for an additional prize! Provide any proof or reciept of donation to the Erie Bears Admin account in our Discord!
+If you would like, a (minimum $5) donation to a charity or fund that you view as important would be greatly appreciated and may even enter you in a raffle for an additional prize! Provide any proof or reciept of donation to the Erie Bears Admin account in our Discord.
 
 ---
 
