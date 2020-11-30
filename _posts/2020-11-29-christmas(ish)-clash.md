@@ -50,13 +50,13 @@ No, we **do not** accept tappedout or other online deck generator links, we want
 ### Prize
 We do have full prize support!
 
-* 1st Place - TBD + Bonus Alter!
+* 1st Place - TBD + Bonus!
 
-* 2nd Place - Antiquities *Strip Mine* + Bonus Alter!
+* 2nd Place - Antiquities *Strip Mine* + Bonus!
 
-* 3rd Place - Alpha *Grizzly Bears* + Bonus Alter!
+* 3rd Place - Alpha *Grizzly Bears* + Bonus!
 
-* Spiciest Deck - 1x Pack of *Fallen Empires* + Bonus Alter!
+* Spiciest Deck - 1x Pack of *Fallen Empires* + Bonus!
 
 All players who provide their address in the sign-up form will also recieve a free club card - an EBOS-signed Unlimited *Grizzly Bears* - which can be brought to future events for possible bonuses and signatures!
 
