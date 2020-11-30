@@ -16,21 +16,25 @@ Well, the Big Bear Brawl didn't work out. That's a-ok though, we can always run 
 ![TFC](/assets/images/christmasclash.png)
 
 ### Date:
-*TBD*, I'm thinking in that gap between Christmas and New Year's or a weekend after the start of 2021? Talk with me, I want to know when works for you!
+*TBD*, 
+
+I'm thinking either that gap between Christmas and New Year's or a weekend after the start of 2021? Talk with me, I want to know when works for you!
 
 ### Time:
-*TBD*
+*TBD*, 
+
+I would like to work in a similar fashion to the last event and start something between **12PM** and **2PM** if possible.
 
 ### Structure:
 Swiss Pairings if we can do so, Round Robin if we can't.
 
 ### Participant Cap:
-Up to 24 Participants.
+Up to 24 Participants may enter.
 
 ### Format:
 [Atlantic 93/94](https://sentineloldschoolmtg.com/atlantic-93-94/) with all reprints that follow the same card art and frame as their original printing allowed (Eternal Central/American reprint policy).
 
-**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only have **up to two Power Nine proxies per-deck.** Please try to keep them as old school as possible, avoid modern/alt. arts and play the originals!
+**Proxies and other playtest cards are allowed**, decks may even be full-proxy if you don't own any old school cards, but players may only have **up to two Power Nine proxies per-deck.** Please try to keep all proxies as old school as possible, avoid modern/alt. arts and play the originals!
 
 ### Play Method:
 We'll be doing webcam games via [our Discord server](https://discord.gg/fDdeJj5) so make sure all of your cards are readable across a webcam!
@@ -55,3 +59,8 @@ We do have full prize support!
 All players who provide their address in the sign-up form will also recieve a free club card - an EBOS-signed Unlimited *Grizzly Bears* - which can be brought to future events for possible bonuses and signatures!
 
 As-mentioned all players who prodide proof of a *TBD* donation to *TBD* will be entered in a raffle for a special prize worth a bit more than 1st place!
+
+### Signups
+If you're interested then check out the signup form below!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfst0e__e1PCDKHC6ld8-qu1Eq0MaYuRF_CRU2Dl3qKCVkh9A/viewform?embedded=true" width="640" height="1258" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
