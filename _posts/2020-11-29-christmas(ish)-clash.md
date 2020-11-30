@@ -42,7 +42,7 @@ We do have full prize support!
 
 * 2nd Place - TBD + Bonus Alter!
 
-* 3rd Place - Beta *Grizzly Bears* + Bonus Alter!
+* 3rd Place - Alpha *Grizzly Bears* + Bonus Alter!
 
 All players who provide their address in the sign-up form will also recieve a free club card - an EBOS-signed Unlimited *Grizzly Bears* - which can be brought to future events for possible bonuses and signatures!
 
