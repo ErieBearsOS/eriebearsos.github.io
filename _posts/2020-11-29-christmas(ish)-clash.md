@@ -13,7 +13,7 @@ Well, the Big Bear Brawl didn't work out. That's a-ok though, we can always run 
 
 **Welcome to the Christmas(ish) Clash!**
 
-*Event Image TBD*
+![TFC](/assets/images/christmasclash.png)
 
 ### Date:
 *TBD*, I'm thinking in that gap between Christmas and New Year's or a weekend after the start of 2021? Talk with me, I want to know when works for you!
