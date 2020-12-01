@@ -16,14 +16,10 @@ Well, the Big Bear Brawl didn't work out. Oh well. That's a-ok though, we can al
 ![TFC](/assets/images/christmasclash.png)
 
 ### Date:
-*TBD*, 
-
-I'm thinking either that gap between Christmas and New Year's or a weekend after the start of 2021? Talk with me, I want to know when works for you!
+At the moment we're looking at **January 16th, 2021** but can run a week earlier or later if needed.
 
 ### Time:
-*TBD*, 
-
-I would like to work in a similar fashion to the last event and start something between **12PM** and **2PM** if possible.
+Rounds will start at **1PM** Eastern. Each will go for 50 minutes, games that go over the time limit will be placed onto turns, and a five-minute break will be given between each round.
 
 ### Structure:
 Swiss Pairings if we can do so, Round Robin if we can't.
@@ -40,10 +36,10 @@ Up to 24 Participants may enter.
 We'll be doing webcam games via [our Discord server](https://discord.gg/fDdeJj5) so make sure all of your cards are readable across a webcam!
 
 ### Entry Fee
-This event is **free** for anyone to enter! If you would like to make a donation of *TBD* to *TBD* then you'll also be entered for a raffle!
+This event is **free** for anyone to enter!
 
 ### Decklists
-Submit your decklist in the form of a **title and completed photo**, similar to those on the [Decks](/decks/) page, in the **decklists** channel of [our Discord server](https://discord.gg/fDdeJj5) before 11:59PM on *TBD* 
+Submit your decklist in the form of a **title and completed photo**, similar to those on the [Decks](/decks/) page, in the **decklists** channel of [our Discord server](https://discord.gg/fDdeJj5) before 11:59PM on Friday, January 15th. 
 
 No, we **do not** accept tappedout or other online deck generator links, we want a photo of your spread for the event report.
 
@@ -59,9 +55,6 @@ We do have full prize support!
 * Spiciest Deck - 1x Pack of *Fallen Empires* + Bonus!
 
 All players who provide their address in the sign-up form will also recieve a free club card - an EBOS-signed Unlimited *Grizzly Bears* - which can be brought to future events for possible bonuses and signatures!
-
-As-mentioned all players who prodide proof of a *TBD* donation to *TBD* will be entered in a raffle for a special prize worth a bit more than 1st place!
-
 
 ### Signups
 If you're interested then check out the signup form below!
