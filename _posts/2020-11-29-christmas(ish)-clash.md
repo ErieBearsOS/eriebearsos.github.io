@@ -9,7 +9,7 @@ tags:
 
 ### Some Months Later...
 
-Well, the Big Bear Brawl didn't work out. That's a-ok though, we can always run another event! 
+Well, the Big Bear Brawl didn't work out. Oh well. That's a-ok though, we can always run another event! 
 
 **Welcome to the Christmas(ish) Clash!**
 
@@ -50,17 +50,18 @@ No, we **do not** accept tappedout or other online deck generator links, we want
 ### Prize
 We do have full prize support!
 
-* 1st Place - TBD + Bonus!
+* 1st Place - *Surprise Card*
 
-* 2nd Place - Antiquities *Strip Mine* + Bonus!
+* 2nd Place - ATQ *Strip Mine* + Bonus!
 
-* 3rd Place - Alpha *Grizzly Bears* + Bonus!
+* 3rd Place - LEA *Grizzly Bears* + Bonus!
 
 * Spiciest Deck - 1x Pack of *Fallen Empires* + Bonus!
 
 All players who provide their address in the sign-up form will also recieve a free club card - an EBOS-signed Unlimited *Grizzly Bears* - which can be brought to future events for possible bonuses and signatures!
 
 As-mentioned all players who prodide proof of a *TBD* donation to *TBD* will be entered in a raffle for a special prize worth a bit more than 1st place!
+
 
 ### Signups
 If you're interested then check out the signup form below!
