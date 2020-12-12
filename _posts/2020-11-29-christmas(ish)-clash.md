@@ -16,7 +16,8 @@ Well, the Big Bear Brawl didn't work out. Oh well. That's a-ok though, we can al
 ![TFC](/assets/images/christmasclash.png)
 
 ### Date:
-At the moment we're looking at **January 16th, 2021** but can run a week earlier or later if needed.
+~~At the moment we're looking at **January 16th, 2021** but can run a week earlier or later if needed.~~
+We'll be moving the event back a week or two due to conflict with other ongoing events. Check back in a bit or view the announcement we'll post in our Discord server!
 
 ### Time:
 Rounds will start at **1PM** Eastern. Each will go for 50 minutes, games that go over the time limit will be placed onto turns, and a five-minute break will be given between each round.
